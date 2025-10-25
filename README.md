@@ -3,4 +3,5 @@
 
 <h3> This is a test repository </h3>
 
-The basics of github
+<p>The basics of github is easy if you know how it funtion as a coding this can be practice daily if you have passion in coding. </p>
+
